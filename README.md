@@ -1,10 +1,6 @@
 # Azure Active Directory Identity Defense
 **Enterprise Identity Management: RBAC, MFA, and Least Privilege Enforcement**
 
-![Azure](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Security](https://img.shields.io/badge/Security-Zero_Trust-red?style=for-the-badge)
-![Compliance](https://img.shields.io/badge/Compliance-RBAC-green?style=for-the-badge)
-
 <hr />
 
 ## 📖 Project Overview
@@ -40,9 +36,11 @@ I established a structured directory by provisioning users with job-specific fun
 To align with modern security standards, I enforced **Security Defaults**. This requires all users to register for Multi-Factor Authentication and update temporary credentials immediately upon their first session.
 
 <img src="https://github.com/user-attachments/assets/80488667-2762-4323-82a9-d43af953b3de" width="90%" />
+
 **Figure 3:** Initial login as the Manager account, triggering the Zero-Trust password update requirement.
 
 <img src="https://github.com/user-attachments/assets/bc3eb311-c6ee-4b4b-81ba-50196254b54e" width="60%" />
+
 **Figure 4:** Successful enforcement of Multi-Factor Authentication (MFA) via the Microsoft Authenticator app.
 
 <hr />
