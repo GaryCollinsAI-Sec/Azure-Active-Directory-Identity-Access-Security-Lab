@@ -63,5 +63,4 @@ The core of this lab was proving that security boundaries actually work. In this
 
 <hr />
 
-**Developed by Gary Collins**
-*Cloud Identity & Security Portfolio | 2026*
+
