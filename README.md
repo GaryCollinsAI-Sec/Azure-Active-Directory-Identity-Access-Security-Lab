@@ -1,4 +1,4 @@
-# Azure Active Directory Identity Defense
+# Azure Active Directory Identity & Access Security Lab
 **Enterprise Identity Management: RBAC, MFA, and Least Privilege Enforcement**
 
 <hr />
